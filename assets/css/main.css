@@ -1,5 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,600,700,300i,600i,700i");
+
 
 /*
 	Paradigm Shift by HTML5 UP
@@ -214,7 +216,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Montserrat", Helvetica, sans-serif;
 		font-size: 5rem;
 		font-weight: 700;
 		letter-spacing: -0.05em;
